@@ -76,3 +76,7 @@
 .video-author {
     margin-bottom: 4px;
 }
+
+.video-author-link {
+    text-decoration: none;
+}
